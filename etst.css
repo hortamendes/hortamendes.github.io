@@ -1,0 +1,23 @@
+
+header{
+    background-color: #000;
+    color: yellow;
+}
+
+body{
+    background-color: #D3D3D3;
+}
+
+figure img {  /* seleciona todas as img dentro de figure com a classe foto-legenda */
+    border: 2px solid red
+}
+
+ header{  /* seleciona todas as img dentro de figure com a classe foto-legenda */
+    border: 3px solid#daa520
+}
+
+.dit{
+    text-align: center;
+    font-size: 25px;
+    background-color: #daa520;
+}
